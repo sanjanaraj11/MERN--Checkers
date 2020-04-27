@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.red {
+  background: red;
+}
+
+.black {
+  background: #000;
+}
+
+td.cell {
+  border: 1px solid black;
+  height: 50px;
+  width: 50px;
+}
+
+.checker-piece {
+  height: 50px;
+  width: 50px;
+  border-radius: 50px;
+}
+
+td.selected {
+  border: 1px solid red;
+}
